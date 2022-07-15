@@ -1,1 +1,1 @@
-## portfolio-optimization-using-python
+## portfolio-optimization-using-scipy and effecient frontier
