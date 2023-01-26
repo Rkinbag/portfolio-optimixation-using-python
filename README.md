@@ -10,8 +10,6 @@
   <p align="center">
     Predictive Portfolio Optimization using Machine Learning
     <br />
-    <a href=https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning><strong>Explore the docs »</strong></a>
-    <br />
     <br />
   </p>
 </p>
